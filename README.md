@@ -29,5 +29,5 @@ py main.py
 ```
 
 ## Develop by 
-- Faiz Rasyid
+- Faiz Rashid
 - Dimas Febriyanto
