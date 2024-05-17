@@ -1,5 +1,5 @@
 # Discord Tugas Reminder
-discord bot for task reminders and news
+This bot is an updated version of the repository <a href="https://github.com/dimassfeb-09/ia21-discord-bot">https://github.com/dimassfeb-09/ia21-discord-bot</a>
 ## Features
 
 - Scraping Upcoming Assignment to [V-Class](https://v-class.gunadarma.ac.id/)
@@ -27,4 +27,7 @@ Run the bot
 ```bash
 py main.py
 ```
-    
+
+## Develop by 
+- Faiz Rasyid
+- Dimas Febriyanto
